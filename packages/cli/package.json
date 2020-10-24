@@ -137,6 +137,7 @@
       "@loopback/http-caching-proxy": "^2.1.16",
       "@loopback/http-server": "^2.3.0",
       "@loopback/example-todo-list": "^3.6.0",
+      "@loopback/example-todo-list-mysql": "^1.0.0",
       "@loopback/dist-util": "^0.4.0",
       "@loopback/rest-explorer": "^3.0.2",
       "@loopback/eslint-config": "^10.0.1",
